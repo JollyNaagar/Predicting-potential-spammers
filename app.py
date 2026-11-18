@@ -4,7 +4,7 @@
 ===============================================================================
 Project: Fiverr Malicious Spammer & Malware Detection — Production Dashboard
 File:    app.py
-Author:  Jolly Nagar (ML Engineer)
+Author:  Jolly Nagar (Student Batch 14)
 Description:
     Interactive Streamlit Trust & Safety web application for inspecting model
     benchmarks, diagnostic plots, real-time single-user What-If risk scoring,
