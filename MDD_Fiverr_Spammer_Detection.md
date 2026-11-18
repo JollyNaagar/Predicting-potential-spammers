@@ -4,7 +4,7 @@
 | Document Metadata | Details |
 | :--- | :--- |
 | **Model Name / ID** | `MDL-TS-FIVERR-SPAM-v1.0` |
-| **Model Owner / Author** | Jolly Nagar (Machine Learning Engineering) |
+| **Model Owner / Author** | Jolly Nagar (Student Batch 14) |
 | **Business Domain** | Marketplace Trust & Safety / Cyber Fraud & Malware Prevention |
 | **Model Type** | Supervised Binary Classification (Histogram-Based Gradient Boosted Decision Trees) |
 | **Target Variable** | `label` (`1` = Spammer / Malware Distributor, `0` = Legitimate User) |
